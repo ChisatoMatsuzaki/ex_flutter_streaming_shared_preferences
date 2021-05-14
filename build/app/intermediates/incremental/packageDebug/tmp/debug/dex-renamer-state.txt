@@ -1,0 +1,4 @@
+#Fri May 14 22:06:42 JST 2021
+base.0=/Users/chisato/works/EnchantedWorks/Flutter/ex_shared_preferences/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

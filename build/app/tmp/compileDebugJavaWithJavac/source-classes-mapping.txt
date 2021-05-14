@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+hoge/hogehoge/ex_shared_preferences/BuildConfig.java
+ hoge.hogehoge.ex_shared_preferences.BuildConfig
