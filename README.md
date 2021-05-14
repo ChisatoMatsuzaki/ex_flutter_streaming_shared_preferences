@@ -1,6 +1,10 @@
-# ex_shared_preferences
+# ex_flutter_streaming_shared_preferences
 
-Streaming shared preferences sample project
+Implementation sample of flutter widget 'streaming_shared_preferences'
+
+Android Studio 4.1.3
+Dart 2.12.3
+Flutter 2.0.6
 
 ## Getting Started
 
