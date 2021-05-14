@@ -1,0 +1,2 @@
+# ex_flutter_streaming_shared_preferences
+Implementation sample of flutter widget 'streaming_shared_preferences'
